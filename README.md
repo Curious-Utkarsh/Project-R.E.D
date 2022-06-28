@@ -3,6 +3,7 @@ Rotary Encoder and Distance
 
 
 
-![20220629_005948 (1)](https://user-images.githubusercontent.com/105288469/176271086-814d3be5-36b0-4a12-9d0e-6e1edb5854b9.gif)
+![ezgif com-gif-maker (1) (1)](https://user-images.githubusercontent.com/105288469/176271868-f71cb297-a4cd-4e09-becd-5b58360f6d7f.gif)
+
 
 Measuring Distance Using Rotation
